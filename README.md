@@ -4,6 +4,6 @@
 
 To know the location of a profile it would be necessary to have control of 3 Tinder profiles, to make a triangulation.
 
-![](https://www.researchgate.net/publication/264871424/figure/fig1/AS:392227860828161@1470525817134/Triangulation-based-Localization.png)
+![triangulation image](https://raw.githubusercontent.com/Game-K-Hack/Triangulation-Tinder-Profile/master/Triangulation-based-Localization.png)
 
 TTP will also provide a facial recognition database. This will allow you to find who you want without calling on a third party.
